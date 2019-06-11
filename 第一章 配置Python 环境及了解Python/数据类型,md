@@ -1,0 +1,16 @@
+# 基本数据类型
+  使用type() 函数进行查看变量类型. eg:type(1) ,type(1.2) , type("python") out:int, float, str
+# 变量
+  python 中定义变量 无须提前定义数据类型, 根据值自动定义数据类型
+  注：注释 使用#
+# 列表
+  生成列表 eg: a=[1,2,3,4,5] 
+  输出 eg:print(a)
+  查看列表长度 eg: len(a)
+  对列表中某个位置的元素进行赋值  eg：a[1]=2
+  注：列表的索引值从0开始
+# 字典
+  定义字典以Key：value的形式进行定义 eg:a={'age':10}
+  根据key 获取value eg:a['age']
+# 布尔类型
+  bool 类型的值只能为：True 或 False
